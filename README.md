@@ -3,9 +3,6 @@
 - 🌱 Atualmente estudando front-end
 - 📫 Contate-me no email: tiagomisael64@gmail.com
 
-
- <img align="center" alt="Tiago-Python" src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif">
-
 <div style="display: inline_block"><br>
   <h1>Tecnologias</h1>
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
