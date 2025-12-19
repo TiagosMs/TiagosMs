@@ -28,10 +28,6 @@ Apenas um escrevedor de codigos que faz isso por hobby
 <a href="#">
   <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
 </a>
-<a href="#">
-  <img align="left" alt="Linux" width="22px" src="https://img.icons8.com/fluency/30/000000/windows-10.png"/>
-</a>
-
 <br>
 <br>
 
