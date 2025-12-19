@@ -6,8 +6,7 @@
 
 ## Sobre Mim
 
-Comecei como desenvolvedor backend em Python, porém, ao descobrir minha afinidade pelo frontend, direcionei meu foco para essa área. Embora meu objetivo final seja me tornar um desenvolvedor fullstack, estou dedicando tempo para aprimorar minhas habilidades no frontend. Estou comprometido em aprender novas tecnologias e explorar frameworks populares como React e Vue.js, acreditando que a combinação de habilidades em ambos os domínios me tornará mais versátil e capaz de enfrentar uma variedade de desafios.
-
+Apenas um escrevedor de codigos que faz isso por hobby
 
 ## Tecnologias
 
