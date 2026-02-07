@@ -28,15 +28,10 @@ Apenas um escrevedor de codigos que faz isso por hobby
 <a href="#">
   <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
 </a>
-<br>
-<br>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagosMS&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
-
 <div>
   <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/gradients.png" alt="Gradients" width="100%">
 </div>
-
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
